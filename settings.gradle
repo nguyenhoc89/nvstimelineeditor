@@ -1,0 +1,3 @@
+include ':nvstimelineeditor'
+include ':app'
+rootProject.name = "TimeLineEditorApp"
